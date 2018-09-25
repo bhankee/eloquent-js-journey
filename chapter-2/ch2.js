@@ -36,7 +36,6 @@ function grid(len) {
       }
       rowStr += '\n';
     }
-
     row++;
   }
   console.log(rowStr);
